@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/social-proof%20img.jpg)
+![](./images/screenshot.jpg)
 
 
 ### Links
