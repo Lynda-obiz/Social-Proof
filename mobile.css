@@ -1,0 +1,49 @@
+/*  external media query for mobiile (max-width:500px)  */
+body{
+    background: url(./images/bg-pattern-top-mobile.svg) no-repeat top left, url(./images/bg-pattern-bottom-mobile.svg) no-repeat bottom right;
+}
+.container{
+    display: block;
+    max-width: 450px;
+    margin: 30px auto;
+}
+.article h2 {
+    text-align: center;
+    max-width: 100%;
+    margin: auto;
+    line-height: 30px;
+}
+.article p {
+    text-align: center;
+    max-width: 100%;
+    padding: 20px 0px;
+}
+.icon{
+    display: block;
+    max-width: 100%;
+    margin-bottom: -40px;
+}
+.stars {
+    text-align: center;
+    margin-bottom: 15px;
+    width: 100%;
+}
+ .stars h5 {
+    display: block;
+    padding-bottom: 5px;
+ }
+ .stars div img {
+    padding-top: 5px;
+ }
+ .box {
+    display: block;
+    max-width: 400px;
+    margin: 0px auto;
+    padding: 0px 30px;
+ }
+ .box-1 {
+    margin: 0px auto;
+    margin-bottom: 10px;
+    width: 90%;
+    border-radius: 10px;  
+ }
